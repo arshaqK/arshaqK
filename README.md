@@ -1,4 +1,4 @@
-<p align="center"><a href="[https://anuraghazra.github.io](https://www.linkedin.com/in/arshaqkirmani/)"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="title" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/arshaqkirmani/"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="title" /></a></p>
 
 ###
 
