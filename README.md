@@ -1,10 +1,10 @@
 <p align="center"><a href="https://www.linkedin.com/in/arshaqkirmani/"><img width="600" alt="Hello, it's Arshaq!" src="Name_Title.png" /></a></p>
 <br>
-<img align = "right" alt="coding"width="400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ2dnY4YnhybjE1amplMzRrcTA2ZGhnaGxzNHg3bWhyODYxazBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align = "right" alt="coding"width="415" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ2dnY4YnhybjE1amplMzRrcTA2ZGhnaGxzNHg3bWhyODYxazBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🚀   I’m currently exploring the fields of ML, Ai, Data Science, etc.
 
-- 💬   I like to talk about Technology, Data Science, etc.
+- 💬   I like to talk about Technology.
 
 - 👨‍💻   Most of my projects are available at [github/arshaqK](https://github.com/arshaqL)
 
@@ -14,8 +14,6 @@
 
 <br>
 <br>
-<br>
-
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arshaqK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" >
 
 
