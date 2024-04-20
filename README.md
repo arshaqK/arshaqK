@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/arshaqkirmani/"><img width="50%" alt="Hello, it's Arshaq!" src="title.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/arshaqkirmani/"><img width="50%" alt="Hello, it's Arshaq!" src="Title.png" /></a></p>
 
 
 <p align="left" width = "10%"> <a href="https://twitter.com/hashim awan" target="blank"><img src="https://img.shields.io/twitter/follow/hashim awan?logo=twitter&style=for-the-badge" alt="hashim awan" /></a> </p>
