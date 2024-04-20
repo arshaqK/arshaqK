@@ -2,13 +2,15 @@
 <br>
 <img align = "right" alt="coding"width="400" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ2dnY4YnhybjE1amplMzRrcTA2ZGhnaGxzNHg3bWhyODYxazBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-- 🚀   I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🚀   I’m currently exploring the fields of ML, Ai, Data Science, etc.
 
-- 👨‍💻 All of my projects are available at [https://github.com/hashimaawan](https://github.com/hashimaawan)
+- 💬   I like to talk about Technology, Data Science, etc.
 
-- 💬 Ask me about **data analysis, Machine learning**
+- 👨‍💻   Most of my projects are available at [github/arshaqK](https://github.com/arshaqL)
 
-- 📫 How to reach me **awanhashim800@gmail.com**
+- 📝   Checkout my [resume](https://drive.google.com/file/d/191XqDz5q0BhdfW46rQdiZgasAjtC-iWX/view?usp=sharing)
+
+- 💼   Any freelance work? Do reach me at [email](mailto:arshaq.kirmani@gmail.com)
 
 <br>
 <br>
