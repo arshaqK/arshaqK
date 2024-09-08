@@ -6,7 +6,7 @@
 
 - 💬   I like to talk about Technology.
 
-- 👨‍💻   Most of my projects are available at [github/arshaqK](https://github.com/arshaqL)
+- 👨‍💻   Most of my projects are available at [github/arshaqK](https://github.com/arshaqK)
 
 - 📝   Checkout my [resume](https://drive.google.com/file/d/191XqDz5q0BhdfW46rQdiZgasAjtC-iWX/view?usp=sharing)
 
