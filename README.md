@@ -1,7 +1,6 @@
 <p align="center"><a href="https://www.linkedin.com/in/arshaqkirmani/"><img width=800" alt="Hello, it's Arshaq!" src="Name.png" /></a></p>
 <br>
 <img align = "right" alt="coding"width="370" src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJ2dnY4YnhybjE1amplMzRrcTA2ZGhnaGxzNHg3bWhyODYxazBxNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
-
 - 🚀   I’m currently exploring the fields of ML, Ai, Data Science, etc.
 
 - 💬   I like to talk about Technology.
