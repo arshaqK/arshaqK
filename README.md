@@ -16,11 +16,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshaqK&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=Space-Shooter)
 
-**Languages I Use:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-
 <br clear="both">
 
 <br>
