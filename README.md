@@ -14,7 +14,7 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshaqK&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=Space-Shooter,Tetris-Game, Multithreaded-Pacman)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshaqK&layout=compact&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&exclude_repo=Space-Shooter,Tetris-Game,Multithreaded-Pacman)
 
 <br clear="both">
 
